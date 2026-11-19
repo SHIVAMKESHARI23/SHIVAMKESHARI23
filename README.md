@@ -1,5 +1,5 @@
 # 💫 About Me:
-🎓 B.Tech CSE @ LPU (3rd Year)<br>💻 MERN Stack Developer in progress<br>🧠 Learning AI & modern development tools<br>🚀 Building projects in frontend & backend<br>🤝 Open to collaboration and growth
+🎓 B.Tech CSE @ LPU (4rd Year)<br>💻 MERN Stack Developer in progress<br>🧠 Learning AI & modern development tools<br>🚀 Building projects in frontend & backend<br>🤝 Open to collaboration and growth
 
 
 ## 🌐 Socials:
